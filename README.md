@@ -2,6 +2,7 @@
 
 ## note 
 Should only serve for entertainment, is only a small project
+All rights to Star Wars are owned by Disney and the games are being developed by Ubisoft's studio Massive Entertainment and EA. This app is just a fan app for fun.
 
 ## english
 This is my first Android app that I'm programming. 

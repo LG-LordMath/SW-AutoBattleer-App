@@ -1,10 +1,12 @@
 # AutoBattlerSW
 
+## note 
+Should only serve for entertainment, is only a small project
 
 ## english
 This is my first Android app that I'm programming. 
 It is an AutoBattler in which the different starships
- of the nations from Star Wars will compete against each other.
+of the nations from Star Wars will compete against each other.
 The goal is a strategically interesting and fun mobile game 
 that I developed myself.
 
